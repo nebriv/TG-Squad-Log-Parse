@@ -20,6 +20,18 @@ LogSquadTrace: [DedicatedServer]ASQPlayerController::SetCurrentRole(): On Server
 
 LogSquadTrace: [DedicatedServer]ASQPlayerController::Possess(): PC=Theenemy Pawn=BP_Soldier_MIL_Medic_C_46 FullPath=BP_Soldier_MIL_Medic_C /Game/Maps/Gorodok/Gorodok_Invasion_v2.Gorodok_Invasion_v2:PersistentLevel.BP_Soldier_MIL_Medic_C_46
 
+# Match Winner (Maybe)
+[2018.09.03-03.29.54:966][345]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): British Army won on Al Basrah Invasion v1
+[2018.09.03-04.07.44:010][974]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): Russian Ground Forces won on OP First Light AAS v1
+[2018.09.03-04.40.58:940][706]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): United States Army won on Logar Valley AAS v1
+[2018.09.03-05.51.05:260][884]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): Irregular Militia Forces won on Gorodok AAS v1
+[2018.09.03-06.36.09:393][918]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): United States Army won on Kokan AAS v1
+[2018.09.03-08.23.18:075][736]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): United States Army won on Fool's Road AAS v3
+[2018.09.03-08.23.18:075][736]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): Russian Ground Forces won on Fool's Road AAS v3
+[2018.09.03-21.30.22:712][409]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): United States Army won on Kohat AAS v1
+[2018.09.03-22.22.33:467][527]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): Irregular Militia Forces won on Jensen's Range
+[2018.09.03-22.22.33:467][527]LogSquadTrace: [DedicatedServer]ASQGameMode::DetermineMatchWinner(): British Army won on Jensen's Range
+
 # Player Spawn
 LogSquadTrace: [DedicatedServer]ASQGameMode::RestartPlayer(): On Server PC=wyattmanboss84 Spawn=BP_ForwardBaseSpawn_C_5 DeployRole=RIFLEMAN
 LogSquadTrace: [DedicatedServer]ASQGameMode::FindPlayerStart_Implementation(): On Server PC=wyattmanboss84 Spawn=BP_ForwardBaseSpawn_C_5 DeployRole=RIFLEMAN IncomingName=
