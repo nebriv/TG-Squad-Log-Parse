@@ -73,6 +73,22 @@ LogSquad: ScorePointsDelayed: Points: 16.000000 ScoreEvent: Killed BP_Ural_375_L
 LogSquadTrace: [DedicatedServer]ASQVehicle::Tick(): Destroy Vehicle
 LogSquad:Warning: ServerRequestPlayer was called too early (13.265625 s left to go)
 
+## TeamKill/TeamWound
+LogSquadTrace: [DedicatedServer]ASQSoldier::Die(): Player:Chief Master Flex KillingDamage=300.000000 from BP_PlayerController_C_115 caused by BP_M9Bayonet_C_23
+LogSquad: ScorePoints: Points: -1.000000 ScoreEvent: TeamKilled Chief Master Flex
+
+LogSquadTrace: [DedicatedServer]ASQSoldier::Die(): Player:[87th]Z_Knight KillingDamage=186.000015 from BP_PlayerController_C_42 caused by BP_M249_Pip_M68_C_2
+LogSquad: ScorePoints: Points: -1.000000 ScoreEvent: TeamKilled [87th]Z_Knight
+
+LogSquadTrace: [DedicatedServer]ASQSoldier::Wound(): Player:Lil Mayo KillingDamage=104.152893 from BP_PlayerController_C_4 caused by BP_RPG7_Frag_C_41
+LogSquad: ScorePoints: Points: -1.000000 ScoreEvent: TeamKilled Lil Mayo
+
+LogSquadTrace: [DedicatedServer]ASQSoldier::Wound(): Player:|TG-95th| sporkife KillingDamage=62.000000 from BP_PlayerController_C_42 caused by BP_RPK74M_1P78_C_16
+LogSquad: ScorePoints: Points: -1.000000 ScoreEvent: TeamKilled |TG-95th| sporkife
+
+LogSquadTrace: [DedicatedServer]ASQSoldier::Wound(): Player:Onon Morongo KillingDamage=100.063652 from BP_PlayerController_C_54 caused by BP_AK74MGP25_UGL_HE_C_9
+LogSquad: ScorePoints: Points: -1.000000 ScoreEvent: TeamKilled Onon Morongo
+
 ## Death
 LogSquadTrace: [DedicatedServer]ASQSoldier::Die(): Player:TheCodFather KillingDamage=-180.000000 from BP_PlayerController_C_23 caused by BP_Soldier_MIL_Rifleman1_C_21
 LogSquad: ScorePointsDelayed: Points: 10.000000 ScoreEvent: Killed TheCodFather
